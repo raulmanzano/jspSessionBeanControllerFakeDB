@@ -1,0 +1,2 @@
+jspSessionBeanControllerFakeDB
+jsp with a session bean as controller and businessDelegate with a FakeDB
